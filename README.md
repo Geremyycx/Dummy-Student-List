@@ -14,9 +14,9 @@ An example line of code is the "Add User": <br />
 ![Image](CodeExample)<br />
 
 This line itself does three things:<br />
-- *NewForm(EditForm1)*: Create a new form for data entry
-- *Navigate('Add New Student Info')*: Moves the user to the 'Add New Student Info' page which has the edit form.
-- *ScreenTransition.None*: There should be no transition animation when navigating to the new page.
+1) *NewForm(EditForm1)*: Create a new form for data entry
+2) *Navigate('Add New Student Info')*: Moves the user to the 'Add New Student Info' page which has the edit form.
+3) *ScreenTransition.None*: There should be no transition animation when navigating to the new page.
 
 <ins><b>Features</ins></b>
 - User Interface Design
