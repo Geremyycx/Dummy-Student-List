@@ -4,5 +4,6 @@
 This project simulates a student-list management system with a low-code/no-code solution provided by Microsoft Power Apps. This project aimed to be able to update information in real time in collaboration with Google Sheets, ensuring that any changes made within the app are instantly reflected in the corresponding spreadsheet. The automated updates include student information (Name, Year, and Status), time & date created, and the generation of incremented Student IDs. 
 
 ## Demo
-Here is a video of my program in action:<br />
-[Watch the demo video](Power%20Apps%20updated%20Video.mp4)
+Click the thumbnail below to watch the demo video of this program:<br />
+[![Watch the demo video](Screenshot%202024-05-19%20214611.png)](Power%20Apps%20updated%20Video%20(1).mp4)
+
