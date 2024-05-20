@@ -5,4 +5,4 @@ This project simulates a student-list management system with a low-code/no-code 
 
 ## Demo
 Here is a video of my program in action:<br />
-[Video](Power Apps updated Video.mp4)
+[Watch the demo video](Power Apps updated Video.mp4)
