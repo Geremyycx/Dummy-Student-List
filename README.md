@@ -5,5 +5,5 @@ This project simulates a student-list management system with a low-code/no-code 
 
 ## Demo
 Click the thumbnail below to watch the demo video of this program:<br />
-[![Watch the demo video](Screenshot%202024-05-19%20214611.png)](Power%20Apps%20updated%20Video%20(1).mp4)
+[![Watch the demo video](Screenshot%202024-05-19%20214611.png)](PowerAppsVideo)
 
